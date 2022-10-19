@@ -12,3 +12,6 @@ Hi~~~~!!!
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
      <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 
+
+
+![iiii666's github stats](https://github-readme-stats.vercel.app/api?username=iiii666&show_icons=true)
